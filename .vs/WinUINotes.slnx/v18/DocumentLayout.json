@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Documents\\repos\\WinUINotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\package.appxmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\package.appxmanifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\models\\allnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\models\\allnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\views\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\views\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\views\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\views\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\aboutdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\aboutdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\aboutdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\aboutdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\winuinotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\winuinotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Documents\\repos\\WinUINotes\\WinUINotes\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinUINotes\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\blankpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\blankpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "WinUINotes\\Package.appxmanifest",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Package.appxmanifest",
+              "RelativeToolTip": "WinUINotes\\Package.appxmanifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2026-01-01T04:46:48.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Constants.cs",
+              "RelativeDocumentMoniker": "WinUINotes\\Constants.cs",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Constants.cs",
+              "RelativeToolTip": "WinUINotes\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T04:40:58.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllNotesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\AllNotesPage.xaml.cs",
+              "RelativeDocumentMoniker": "WinUINotes\\Views\\AllNotesPage.xaml.cs",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\AllNotesPage.xaml.cs",
+              "RelativeToolTip": "WinUINotes\\Views\\AllNotesPage.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwEEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:34:35.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\AboutDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WinUINotes\\AboutDialog.xaml.cs",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\AboutDialog.xaml.cs",
+              "RelativeToolTip": "WinUINotes\\AboutDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T03:19:00.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WinUINotes\\MainWindow.xaml",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\MainWindow.xaml",
+              "RelativeToolTip": "WinUINotes\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-20T04:59:53.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WinUINotes\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WinUINotes\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:05:37.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotePage.xaml.cs",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\NotePage.xaml.cs",
+              "RelativeDocumentMoniker": "WinUINotes\\Views\\NotePage.xaml.cs",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\NotePage.xaml.cs",
+              "RelativeToolTip": "WinUINotes\\Views\\NotePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:13:28.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllNotes.cs",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Models\\AllNotes.cs",
+              "RelativeDocumentMoniker": "WinUINotes\\Models\\AllNotes.cs",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Models\\AllNotes.cs",
+              "RelativeToolTip": "WinUINotes\\Models\\AllNotes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:33:43.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "WinUINotes\\Views\\SettingsPage.xaml.cs",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "WinUINotes\\Views\\SettingsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T04:38:46.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\app.manifest",
+              "RelativeDocumentMoniker": "WinUINotes\\app.manifest",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\app.manifest",
+              "RelativeToolTip": "WinUINotes\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-12-20T05:55:29.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "WinUINotes\\Views\\SettingsPage.xaml",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\SettingsPage.xaml",
+              "RelativeToolTip": "WinUINotes\\Views\\SettingsPage.xaml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-01T04:38:48.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "WinUINotes\\Models\\Note.cs",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Models\\Note.cs",
+              "RelativeToolTip": "WinUINotes\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:26:46.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotePage.xaml",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\NotePage.xaml",
+              "RelativeDocumentMoniker": "WinUINotes\\Views\\NotePage.xaml",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\NotePage.xaml",
+              "RelativeToolTip": "WinUINotes\\Views\\NotePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-20T05:10:42.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "RelativeDocumentMoniker": "WinUINotes\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "RelativeToolTip": "WinUINotes\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAWwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:21:55.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutDialog.xaml",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\AboutDialog.xaml",
+              "RelativeDocumentMoniker": "WinUINotes\\AboutDialog.xaml",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\AboutDialog.xaml",
+              "RelativeToolTip": "WinUINotes\\AboutDialog.xaml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-01T03:15:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllNotesPage.xaml",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\AllNotesPage.xaml",
+              "RelativeDocumentMoniker": "WinUINotes\\Views\\AllNotesPage.xaml",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Views\\AllNotesPage.xaml",
+              "RelativeToolTip": "WinUINotes\\Views\\AllNotesPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-20T05:34:29.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WinUINotes.csproj",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\WinUINotes.csproj",
+              "RelativeDocumentMoniker": "WinUINotes\\WinUINotes.csproj",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\WinUINotes.csproj",
+              "RelativeToolTip": "WinUINotes\\WinUINotes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-20T05:08:29.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlankPage1.xaml",
+              "DocumentMoniker": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\BlankPage1.xaml",
+              "RelativeDocumentMoniker": "WinUINotes\\BlankPage1.xaml",
+              "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\BlankPage1.xaml",
+              "RelativeToolTip": "WinUINotes\\BlankPage1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-20T05:10:27.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

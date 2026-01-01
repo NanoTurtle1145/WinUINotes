@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Documents\repos\WinUINotes\WinUINotes\Assets\logo.png</Source>
+    <SmallTileSource>C:\Documents\repos\WinUINotes\WinUINotes\Assets\logo.png</SmallTileSource>
+    <MediumTileSource>C:\Documents\repos\WinUINotes\WinUINotes\Assets\logo.png</MediumTileSource>
+    <WideTileSource>C:\Documents\repos\WinUINotes\WinUINotes\Assets\logo.png</WideTileSource>
+    <LargeTileSource>C:\Documents\repos\WinUINotes\WinUINotes\Assets\logo.png</LargeTileSource>
+    <AppIconSource>C:\Documents\repos\WinUINotes\WinUINotes\Assets\logo.png</AppIconSource>
+    <SplashScreenSource>C:\Documents\repos\WinUINotes\WinUINotes\Assets\logo.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Documents\repos\WinUINotes\WinUINotes\Assets\logo.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Documents\repos\WinUINotes\WinUINotes\Assets\logo.png</PackageLogoSource>
+    <ActiveDebugProfile>WinUINotes (Package)</ActiveDebugProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <ItemGroup>
+    <Page Update="AboutDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <None Update="App.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <Page Update="Views\AllNotesPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BlankPage1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <None Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

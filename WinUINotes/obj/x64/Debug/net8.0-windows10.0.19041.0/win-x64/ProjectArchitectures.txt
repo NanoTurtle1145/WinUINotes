@@ -1,0 +1,1 @@
+C:\Documents\repos\WinUINotes\WinUINotes\WinUINotes.csproj;x64

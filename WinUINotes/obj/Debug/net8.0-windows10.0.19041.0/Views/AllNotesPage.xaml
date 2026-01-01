@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Page x:ConnectionId='1'
+    x:Class="WinUINotes.Views.AllNotesPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinUINotes.Views"
+	xmlns:models="using:WinUINotes.Models"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+<Page.Resources>
+    <!-- ↓ Add this. ↓ -->
+		<DataTemplate x:Key="NoteItemTemplate" 
+                                      >
+
+			<!-- ↓ Update this. ↓ -->
+			<ItemContainer x:ConnectionId='3' CornerRadius="{StaticResource OverlayCornerRadius}">
+				<Grid Background="{ThemeResource CardBackgroundFillColorDefaultBrush}"
+              BorderThickness="1" 
+              BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}"
+              CornerRadius="{StaticResource OverlayCornerRadius}">
+					<!-- ↑ Update this. ↑ -->
+
+					<Grid.RowDefinitions>
+						<RowDefinition Height="120"/>
+						<RowDefinition Height="Auto"/>
+					</Grid.RowDefinitions>
+					<TextBlock x:ConnectionId='4'                      Margin="12,8"
+                       TextWrapping="Wrap"
+                       TextTrimming="WordEllipsis"/>
+
+					<!-- ↓ Update this. ↓ -->
+					<Border Grid.Row="1" Padding="8,6,0,6"
+                    Background="{ThemeResource SubtleFillColorSecondaryBrush}">
+						<TextBlock x:ConnectionId='5'                     
+                    Style="{StaticResource CaptionTextBlockStyle}"
+                    Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+						<!-- ↑ Update this. ↑ -->
+
+					</Border>
+				</Grid>
+			</ItemContainer>
+		</DataTemplate>
+		<!-- ↑ Add this. ↑ -->
+</Page.Resources>
+	<Grid x:ConnectionId='6' x:Name="rootPanel">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+
+		<CommandBar DefaultLabelPosition="Right">
+			<AppBarButton x:ConnectionId='8' Icon="Add" Label="新笔记"
+                                         />
+			<AppBarButton x:ConnectionId='9' Icon="More" Label="关于"
+			                            />
+			<CommandBar.Content>
+				<TextBlock Text="Quick notes" Margin="16,8" 
+                   Style="{ThemeResource SubtitleTextBlockStyle}"/>
+			</CommandBar.Content>
+		</CommandBar>
+
+		<ItemsView x:ConnectionId='7'                                        
+           Grid.Row="1" Margin="24" 
+           ItemTemplate="{StaticResource NoteItemTemplate}"
+			SelectionMode="None"
+           IsItemInvokedEnabled="True"
+                                              >
+			<ItemsView.Layout>
+				<UniformGridLayout MinItemWidth="200"
+                           MinColumnSpacing="12"
+                           MinRowSpacing="12"
+                           ItemsJustification="Start"/>
+			</ItemsView.Layout>
+		</ItemsView>
+	</Grid>
+</Page>
+
