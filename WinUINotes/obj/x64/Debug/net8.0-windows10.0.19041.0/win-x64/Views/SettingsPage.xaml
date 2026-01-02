@@ -5,34 +5,30 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:WinUINotes.Views"
     xmlns:constants="using:WinUINotes"
+    xmlns:models="using:WinUINotes.Models"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
     <Grid Padding="24">
         <StackPanel Spacing="24" MaxWidth="600">
-            <TextBlock Text="设置（并未完全做好）" Style="{ThemeResource TitleTextBlockStyle}"/>
+            <TextBlock Text="设置" Style="{ThemeResource TitleTextBlockStyle}"/>
 
             <StackPanel Spacing="12">
                 <TextBlock Text="应用设置" Style="{ThemeResource SubtitleTextBlockStyle}"/>
 
-                <ToggleSwitch Header="深色模式" OffContent="关闭" OnContent="开启"/>
+                <ToggleSwitch x:ConnectionId='4' Header="深色模式" OffContent="关闭" OnContent="开启"
+                                                                                                />
 
-                <ToggleSwitch Header="自动保存" OffContent="关闭" OnContent="开启" IsOn="True"/>
+                <ToggleSwitch x:ConnectionId='5' Header="自动保存" OffContent="关闭" OnContent="开启"
+                                                                                              />
 
-                <NumberBox Header="自动保存间隔（秒）" Value="30" Minimum="5" Maximum="300"/>
-            </StackPanel>
+                <NumberBox x:ConnectionId='6' Header="自动保存间隔（秒）" 
+                                                                                                    
+                          Minimum="5" Maximum="300"/>
 
-            <StackPanel Spacing="12">
-                <TextBlock Text="编辑器设置" Style="{ThemeResource SubtitleTextBlockStyle}"/>
-
-                <ToggleSwitch Header="启用Markdown预览" OffContent="关闭" OnContent="开启"/>
-
-                <ComboBox Header="字体大小" SelectedIndex="1">
-                    <ComboBoxItem Content="小"/>
-                    <ComboBoxItem Content="中"/>
-                    <ComboBoxItem Content="大"/>
-                </ComboBox>
+                <ToggleSwitch x:ConnectionId='7' Header="Markdown预览" OffContent="关闭" OnContent="开启"
+                                                                                                           />
             </StackPanel>
 
             <StackPanel Spacing="12">

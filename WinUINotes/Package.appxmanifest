@@ -10,7 +10,7 @@
   <Identity
     Name="48b8ab23-97e3-4f83-b036-3191f5a56e5f"
     Publisher="CN=HopeStudio-NT"
-    Version="1.1.4.5" />
+    Version="1.1.4.6" />
 
   <mp:PhoneIdentity PhoneProductId="48b8ab23-97e3-4f83-b036-3191f5a56e5f" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 

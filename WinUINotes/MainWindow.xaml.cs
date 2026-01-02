@@ -12,15 +12,10 @@ using Microsoft.UI.Xaml.Media;
 using Microsoft.UI.Xaml.Navigation;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
-
-// To learn more about WinUI, the WinUI project structure,
-// and more about our project templates, see: http://aka.ms/winui-project-info.
+using WinUINotes.Models;
 
 namespace WinUINotes
 {
-    /// <summary>
-    /// An empty window that can be used on its own or navigated to within a Frame.
-    /// </summary>
     public sealed partial class MainWindow : Window
     {
         public MainWindow()
@@ -29,15 +24,34 @@ namespace WinUINotes
             this.InitializeComponent();
             ExtendsContentIntoTitleBar = true;
             SetTitleBar(AppTitleBar);
+            
+            ApplyTheme();
+            AppSettings.Instance.PropertyChanged += OnSettingsChanged;
         }
-		private void AppTitleBar_BackRequested(TitleBar sender, object args)
-		{
-			// ¡ý Add this. ¡ý
-			if (rootFrame.CanGoBack == true)
-			{
-				rootFrame.GoBack();
-			}
-			// ¡ü Add this. ¡ü
-		}
-	}
+
+        private void OnSettingsChanged(object? sender, System.ComponentModel.PropertyChangedEventArgs e)
+        {
+            if (e.PropertyName == nameof(AppSettings.IsDarkMode))
+            {
+                ApplyTheme();
+            }
+        }
+
+        private void ApplyTheme()
+        {
+            var theme = AppSettings.Instance.IsDarkMode ? ElementTheme.Dark : ElementTheme.Light;
+            if (Content is FrameworkElement rootElement)
+            {
+                rootElement.RequestedTheme = theme;
+            }
+        }
+
+        private void AppTitleBar_BackRequested(TitleBar sender, object args)
+        {
+            if (rootFrame.CanGoBack == true)
+            {
+                rootFrame.GoBack();
+            }
+        }
+    }
 }

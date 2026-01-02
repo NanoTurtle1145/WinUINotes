@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinUINotes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb0719cde33bf3c8ab6b808a7c832748603aba8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinUINotes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinUINotes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

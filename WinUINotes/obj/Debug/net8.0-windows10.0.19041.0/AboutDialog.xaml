@@ -29,7 +29,7 @@
 			<TextBlock Text="WinUI笔记" 
                        Style="{StaticResource SubtitleTextBlockStyle}"
                        TextAlignment="Center"/>
-			<TextBlock Text="版本 1.0.0" 
+			<TextBlock x:ConnectionId='2' x:Name="VersionTextBlock" 
                        Style="{StaticResource BodyTextBlockStyle}"
                        TextAlignment="Center"
                        Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
@@ -65,7 +65,7 @@
 						<StackPanel Spacing="8">
 							<TextBlock Text="新功能" 
                         Style="{StaticResource BodyStrongTextBlockStyle}"/>
-							<TextBlock Text="• 支持Markdonw预览" 
+							<TextBlock Text="• 支持Markdown预览" 
                                        Style="{StaticResource BodyTextBlockStyle}"
                            TextWrapping="Wrap"/>
 
@@ -76,6 +76,30 @@
 			
 			</Border>
 			<TextBlock Text="www.hopestudio.top" 
+                    Style="{StaticResource BodyTextBlockStyle}"
+                    TextAlignment="Center"
+                    Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+			<TextBlock Text="舟中晚起" 
+                    Style="{StaticResource BodyTextBlockStyle}"
+                    TextAlignment="Center"
+                    Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+			<TextBlock Text="[ 唐·白居易 ]" 
+                    Style="{StaticResource BodyTextBlockStyle}"
+                    TextAlignment="Center"
+                    Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+			<TextBlock Text="日高犹掩水窗眠，枕簟清凉八月天。" 
+                    Style="{StaticResource BodyTextBlockStyle}"
+                    TextAlignment="Center"
+                    Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+			<TextBlock Text="泊处或依沽酒店，宿时多伴钓鱼船。" 
+                    Style="{StaticResource BodyTextBlockStyle}"
+                    TextAlignment="Center"
+                    Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+			<TextBlock Text="退身江海应无用，忧国朝廷自有贤。" 
+                    Style="{StaticResource BodyTextBlockStyle}"
+                    TextAlignment="Center"
+                    Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+			<TextBlock Text="且向钱唐湖上去，冷吟闲醉二三年。" 
                     Style="{StaticResource BodyTextBlockStyle}"
                     TextAlignment="Center"
                     Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>

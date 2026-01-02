@@ -291,3 +291,4 @@ C:\Documents\repos\WinUINotes\WinUINotes\obj\x64\Debug\net8.0-windows10.0.19041.
 C:\Documents\repos\WinUINotes\WinUINotes\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Views\SettingsPage.g.cs
 C:\Documents\repos\WinUINotes\WinUINotes\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Views\SettingsPage.xaml
 C:\Documents\repos\WinUINotes\WinUINotes\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Views\SettingsPage.xbf
+C:\Documents\repos\WinUINotes\WinUINotes\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes.sourcelink.json

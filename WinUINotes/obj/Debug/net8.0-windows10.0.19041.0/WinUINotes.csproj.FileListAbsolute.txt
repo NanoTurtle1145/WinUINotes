@@ -109,3 +109,9 @@ c:\Documents\repos\WinUINotes\WinUINotes\obj\Debug\net8.0-windows10.0.19041.0\pr
 c:\Documents\repos\WinUINotes\WinUINotes\obj\Debug\net8.0-windows10.0.19041.0\qualifiers.txt
 c:\Documents\repos\WinUINotes\WinUINotes\obj\Debug\net8.0-windows10.0.19041.0\qualifiers.txt.intermediate
 c:\Documents\repos\WinUINotes\WinUINotes\obj\Debug\net8.0-windows10.0.19041.0\MultipleQualifiersPerDimensionFound.txt
+C:\Documents\repos\WinUINotes\WinUINotes\obj\Debug\net8.0-windows10.0.19041.0\Views\SettingsPage.g.i.cs
+C:\Documents\repos\WinUINotes\WinUINotes\obj\Debug\net8.0-windows10.0.19041.0\Views\SettingsPage.g.cs
+C:\Documents\repos\WinUINotes\WinUINotes\obj\Debug\net8.0-windows10.0.19041.0\Views\SettingsPage.xaml
+C:\Documents\repos\WinUINotes\WinUINotes\obj\Debug\net8.0-windows10.0.19041.0\Views\SettingsPage.xbf
+C:\Documents\repos\WinUINotes\WinUINotes\bin\Debug\net8.0-windows10.0.19041.0\Views\SettingsPage.xbf
+C:\Documents\repos\WinUINotes\WinUINotes\obj\Debug\net8.0-windows10.0.19041.0\WinUINotes.sourcelink.json

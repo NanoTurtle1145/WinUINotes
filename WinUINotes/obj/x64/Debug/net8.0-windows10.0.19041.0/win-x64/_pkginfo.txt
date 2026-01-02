@@ -1,1 +1,1 @@
-C:\Documents\repos\WinUINotes\WinUINotes\AppPackages\WinUINotes_1.1.4.5_Debug_Test\WinUINotes_1.1.4.5_x64_Debug.msixbundle
+C:\Documents\repos\WinUINotes\WinUINotes\AppPackages\WinUINotes_1.1.4.6_Debug_Test\WinUINotes_1.1.4.6_x64_Debug.msixbundle

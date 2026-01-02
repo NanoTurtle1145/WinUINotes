@@ -12,6 +12,7 @@ using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using WinUINotes.Models;
 
 namespace WinUINotes.Views
 {
@@ -21,6 +22,28 @@ namespace WinUINotes.Views
         {
             this.InitializeComponent();
             VersionTextBlock.Text = $"版本 {Constants.Version}";
+            
+            AppSettings.Instance.PropertyChanged += OnSettingsChanged;
+        }
+
+        private void OnSettingsChanged(object? sender, System.ComponentModel.PropertyChangedEventArgs e)
+        {
+            if (e.PropertyName == nameof(AppSettings.IsDarkMode))
+            {
+                ApplyTheme();
+            }
+        }
+
+        private void ApplyTheme()
+        {
+            var theme = AppSettings.Instance.IsDarkMode ? ElementTheme.Dark : ElementTheme.Light;
+            RequestedTheme = theme;
+        }
+
+        protected override void OnNavigatedFrom(NavigationEventArgs e)
+        {
+            base.OnNavigatedFrom(e);
+            AppSettings.Instance.PropertyChanged -= OnSettingsChanged;
         }
     }
 }

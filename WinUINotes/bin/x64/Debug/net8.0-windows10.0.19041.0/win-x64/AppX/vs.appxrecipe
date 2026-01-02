@@ -18,32 +18,32 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>ADA3A0F21CFA7A3DD0CCFE4DE4057624715AAD6D6F857514AE3DDBF5FE3FC685</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>48b8ab23-97e3-4f83-b036-3191f5a56e5f_1.0.1.0_x64__yyx69j5x7m4xp</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>30043DF457EBB9CCC2A005A187031CD78179561A58E1D60FD56578A7DA5490A0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>48b8ab23-97e3-4f83-b036-3191f5a56e5f_1.1.4.5_x64__yyx69j5x7m4xp</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>48b8ab23-97e3-4f83-b036-3191f5a56e5f_yyx69j5x7m4xp!App</RegisteredUserModeAppID>
     <RegisteredPackageID>48b8ab23-97e3-4f83-b036-3191f5a56e5f</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=HopeStudio-NT</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.1.0</RegisteredVersion>
+    <RegisteredVersion>1.1.4.5</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2026-01-01T04:43:06.715</Modified>
+      <Modified>2026-01-02T17:35:04.872</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes.runtimeconfig.json">
       <PackagePath>WinUINotes.runtimeconfig.json</PackagePath>
-      <Modified>2026-01-01T04:01:13.662</Modified>
+      <Modified>2026-01-02T16:54:13.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>WinUINotes.exe</PackagePath>
-      <Modified>2026-01-01T04:43:06.353</Modified>
+      <Modified>2026-01-02T17:35:04.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes.dll">
       <PackagePath>WinUINotes.dll</PackagePath>
-      <Modified>2026-01-01T04:43:06.346</Modified>
+      <Modified>2026-01-02T17:35:04.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\NT\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.22\runtimes\win-x64\lib\net8.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -931,239 +931,239 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes.deps.json">
       <PackagePath>WinUINotes.deps.json</PackagePath>
-      <Modified>2026-01-01T04:01:13.623</Modified>
+      <Modified>2026-01-02T16:54:13.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\BadgeLogo.scale-100.png">
       <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.949</Modified>
+      <Modified>2026-01-02T15:35:09.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\BadgeLogo.scale-125.png">
       <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.955</Modified>
+      <Modified>2026-01-02T15:35:09.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\BadgeLogo.scale-150.png">
       <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.963</Modified>
+      <Modified>2026-01-02T15:35:09.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\BadgeLogo.scale-200.png">
       <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.970</Modified>
+      <Modified>2026-01-02T15:35:09.614</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\BadgeLogo.scale-400.png">
       <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.984</Modified>
+      <Modified>2026-01-02T15:35:09.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.210</Modified>
+      <Modified>2026-01-02T15:35:09.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\LargeTile.scale-125.png">
       <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.229</Modified>
+      <Modified>2026-01-02T15:35:09.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\LargeTile.scale-150.png">
       <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.252</Modified>
+      <Modified>2026-01-02T15:35:09.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.288</Modified>
+      <Modified>2026-01-02T15:35:09.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.415</Modified>
+      <Modified>2026-01-02T15:35:09.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2025-12-06T03:41:49.100</Modified>
+      <Modified>2026-01-02T15:35:09.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\logo.png">
       <PackagePath>Assets\logo.png</PackagePath>
-      <Modified>2025-12-20T05:57:31.935</Modified>
+      <Modified>2026-01-02T15:35:09.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
-      <Modified>2025-12-20T05:57:47.965</Modified>
+      <Modified>2026-01-02T15:35:09.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\SmallTile.scale-125.png">
       <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
-      <Modified>2025-12-20T05:57:47.972</Modified>
+      <Modified>2026-01-02T15:35:09.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\SmallTile.scale-150.png">
       <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
-      <Modified>2025-12-20T05:57:47.979</Modified>
+      <Modified>2026-01-02T15:35:09.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
-      <Modified>2025-12-20T05:57:47.986</Modified>
+      <Modified>2026-01-02T15:35:09.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
-      <Modified>2025-12-20T05:57:47.999</Modified>
+      <Modified>2026-01-02T15:35:09.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.579</Modified>
+      <Modified>2026-01-02T15:35:09.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.607</Modified>
+      <Modified>2026-01-02T15:35:09.626</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.645</Modified>
+      <Modified>2026-01-02T15:35:09.627</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.708</Modified>
+      <Modified>2026-01-02T15:35:09.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.936</Modified>
+      <Modified>2026-01-02T15:35:09.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.010</Modified>
+      <Modified>2026-01-02T15:35:09.630</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.019</Modified>
+      <Modified>2026-01-02T15:35:09.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.029</Modified>
+      <Modified>2026-01-02T15:35:09.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.042</Modified>
+      <Modified>2026-01-02T15:35:09.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.079</Modified>
+      <Modified>2026-01-02T15:35:09.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.525</Modified>
+      <Modified>2026-01-02T15:35:09.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.530</Modified>
+      <Modified>2026-01-02T15:35:09.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.559</Modified>
+      <Modified>2026-01-02T15:35:09.637</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.536</Modified>
+      <Modified>2026-01-02T15:35:09.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.542</Modified>
+      <Modified>2026-01-02T15:35:09.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.487</Modified>
+      <Modified>2026-01-02T15:35:09.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.519</Modified>
+      <Modified>2026-01-02T15:35:09.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.498</Modified>
+      <Modified>2026-01-02T15:35:09.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.504</Modified>
+      <Modified>2026-01-02T15:35:09.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.421</Modified>
+      <Modified>2026-01-02T15:35:09.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.426</Modified>
+      <Modified>2026-01-02T15:35:09.644</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.432</Modified>
+      <Modified>2026-01-02T15:35:09.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.438</Modified>
+      <Modified>2026-01-02T15:35:09.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.447</Modified>
+      <Modified>2026-01-02T15:35:09.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.452</Modified>
+      <Modified>2026-01-02T15:35:09.648</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.457</Modified>
+      <Modified>2026-01-02T15:35:09.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.492</Modified>
+      <Modified>2026-01-02T15:35:09.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.482</Modified>
+      <Modified>2026-01-02T15:35:09.650</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.464</Modified>
+      <Modified>2026-01-02T15:35:09.651</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.469</Modified>
+      <Modified>2026-01-02T15:35:09.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\StoreLogo.backup.png">
       <PackagePath>Assets\StoreLogo.backup.png</PackagePath>
-      <Modified>2025-12-06T03:41:49.103</Modified>
+      <Modified>2026-01-02T15:35:09.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.990</Modified>
+      <Modified>2026-01-02T15:35:09.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.997</Modified>
+      <Modified>2026-01-02T15:35:09.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-12-20T05:57:49.003</Modified>
+      <Modified>2026-01-02T15:35:09.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-12-20T05:57:49.010</Modified>
+      <Modified>2026-01-02T15:35:09.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-12-20T05:57:49.022</Modified>
+      <Modified>2026-01-02T15:35:09.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.088</Modified>
+      <Modified>2026-01-02T15:35:09.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.099</Modified>
+      <Modified>2026-01-02T15:35:09.658</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.114</Modified>
+      <Modified>2026-01-02T15:35:09.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.133</Modified>
+      <Modified>2026-01-02T15:35:09.660</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
-      <Modified>2025-12-20T05:57:48.196</Modified>
+      <Modified>2026-01-02T15:35:09.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\NT\.nuget\packages\microsoft.web.webview2\1.0.3179.45\build\..\lib\Microsoft.Web.WebView2.Core.winmd">
       <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
@@ -1171,7 +1171,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2026-01-01T04:42:34.031</Modified>
+      <Modified>2026-01-02T17:35:04.579</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

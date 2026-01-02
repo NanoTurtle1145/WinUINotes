@@ -1,5 +1,5 @@
-MainPackage=C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes_1.1.4.5_x64_Debug.msix
-ResourcePack=C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes_1.1.4.5_scale-100.msix
-ResourcePack=C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes_1.1.4.5_scale-125.msix
-ResourcePack=C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes_1.1.4.5_scale-150.msix
-ResourcePack=C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes_1.1.4.5_scale-400.msix
+MainPackage=C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\WinUINotes_1.1.4.6_x64.msix
+ResourcePack=C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\WinUINotes_1.1.4.6_scale-100.msix
+ResourcePack=C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\WinUINotes_1.1.4.6_scale-125.msix
+ResourcePack=C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\WinUINotes_1.1.4.6_scale-150.msix
+ResourcePack=C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\WinUINotes_1.1.4.6_scale-400.msix
