@@ -18,32 +18,32 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>30043DF457EBB9CCC2A005A187031CD78179561A58E1D60FD56578A7DA5490A0</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>48b8ab23-97e3-4f83-b036-3191f5a56e5f_1.1.4.5_x64__yyx69j5x7m4xp</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>AD397935F6E36EC1F6819A5C6C7F5E69E5B9397545D59AECDD892872D4FFE855</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>48b8ab23-97e3-4f83-b036-3191f5a56e5f_1.1.4.6_x64__yyx69j5x7m4xp</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>48b8ab23-97e3-4f83-b036-3191f5a56e5f_yyx69j5x7m4xp!App</RegisteredUserModeAppID>
     <RegisteredPackageID>48b8ab23-97e3-4f83-b036-3191f5a56e5f</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=HopeStudio-NT</RegisteredPackagePublisher>
-    <RegisteredVersion>1.1.4.5</RegisteredVersion>
+    <RegisteredVersion>1.1.4.6</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2026-01-02T17:35:04.872</Modified>
+      <Modified>2026-01-02T17:44:51.135</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes.runtimeconfig.json">
       <PackagePath>WinUINotes.runtimeconfig.json</PackagePath>
-      <Modified>2026-01-02T16:54:13.182</Modified>
+      <Modified>2026-01-02T17:44:50.697</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>WinUINotes.exe</PackagePath>
-      <Modified>2026-01-02T17:35:04.454</Modified>
+      <Modified>2026-01-02T17:44:50.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes.dll">
       <PackagePath>WinUINotes.dll</PackagePath>
-      <Modified>2026-01-02T17:35:04.447</Modified>
+      <Modified>2026-01-02T17:44:50.404</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\NT\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.22\runtimes\win-x64\lib\net8.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -931,7 +931,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\WinUINotes.deps.json">
       <PackagePath>WinUINotes.deps.json</PackagePath>
-      <Modified>2026-01-02T16:54:13.178</Modified>
+      <Modified>2026-01-02T17:44:50.692</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\Assets\BadgeLogo.scale-100.png">
       <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
@@ -1171,7 +1171,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Documents\repos\WinUINotes\WinUINotes\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2026-01-02T17:35:04.579</Modified>
+      <Modified>2026-01-02T17:44:50.793</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

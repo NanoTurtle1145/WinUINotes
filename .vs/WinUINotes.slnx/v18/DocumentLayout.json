@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Documents\\repos\\WinUINotes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}|Code",
-      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}|Code"
+      "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|solutionrelative:winuinotes\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13A8F3E0-F6F3-6868-8D3F-F7C30517EEC5}|WinUINotes\\WinUINotes.csproj|c:\\documents\\repos\\winuinotes\\winuinotes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -96,9 +96,8 @@
               "RelativeDocumentMoniker": "WinUINotes\\Package.appxmanifest",
               "ToolTip": "C:\\Documents\\repos\\WinUINotes\\WinUINotes\\Package.appxmanifest",
               "RelativeToolTip": "WinUINotes\\Package.appxmanifest",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
-              "WhenOpened": "2026-01-02T17:35:40.978Z",
+              "WhenOpened": "2026-01-02T17:36:49.495Z",
               "EditorCaption": ""
             },
             {
